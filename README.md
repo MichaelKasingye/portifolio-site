@@ -1,4 +1,4 @@
-# portifolio-site
+# portifolio-site link - https://michaelkasingye.netlify.app/
 Portifolio web site about me .
 ## implementation
 1. HTML
