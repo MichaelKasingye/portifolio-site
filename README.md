@@ -1,5 +1,7 @@
-# portifolio-site
-Portifolio web site about me .
+# portifolio-site 
+link - https://michaelkasingye.netlify.app/
+<br>
+This is a portifolio web site about me .
 ## implementation
 1. HTML
 2. CSS
