@@ -2,17 +2,17 @@ const projectGroup = document.querySelector('.project-group');
 
 const data = [
     {
-        "typeOfProject":"Portifolio Website",
-        "shortDescription":"Online description of me",
+        "typeOfProject":"Portifolio",
+        "shortDescription":"Portifolio site built in HTML, CSS, JavaScript",
         "image": "https://i.pinimg.com/originals/44/83/37/448337fd82e8c13de37548a9e7ca1261.jpg",
         "projectLink": "https://michaelkasingye.netlify.app/"      
     },
-    // {
-    //     "typeOfProject":"Noonya Search Engine",
-    //     "shortDescription":" Google based Search Engine mimic",
-    //     "image": "https://resize.hswstatic.com/w_796/gif/google-update.jpg",
-    //     "projectLink": "https://e-clone-b16ec.web.app/"      
-    // },
+    {
+        "typeOfProject":"Weather",
+        "shortDescription":"Weather Forecast App Built in React",
+        "image": "https://i.pinimg.com/originals/41/25/00/412500dd8a3c60b3d754ac12c9242709.png",
+        "projectLink": "https://weatherforcastapp.netlify.app/"      
+    },
   
 ];
 
