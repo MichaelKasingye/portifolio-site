@@ -5,7 +5,7 @@ const data = [
         "typeOfProject":"Portifolio Website",
         "shortDescription":"Online description of me",
         "image": "https://i.pinimg.com/originals/44/83/37/448337fd82e8c13de37548a9e7ca1261.jpg",
-        "projectLink": "https://e-clone-b16ec.web.app/"      
+        "projectLink": "https://michaelkasingye.netlify.app/"      
     },
     // {
     //     "typeOfProject":"Noonya Search Engine",

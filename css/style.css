@@ -75,7 +75,15 @@ h3 {
   background-color: #eee;
 }
 button{
-  color:#636e72 ;
+  color:black;
+}
+button:hover{
+  background-color:#B2BEC3;
+  color:#EEEEEE ;
+}
+button:active{
+  background-color:#FFFFFF;
+  color:black;
 }
 /* contact */
 .contact-links {
