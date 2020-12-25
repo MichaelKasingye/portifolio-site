@@ -2,7 +2,7 @@ const projectGroup = document.querySelector('.project-group');
 
 const data = [
     {
-        "typeOfProject":"portfolio ",
+        "typeOfProject":"Portfolio ",
         "shortDescription":"Portfolio  site built in HTML, CSS, JavaScript",
         "image": "https://i.pinimg.com/originals/44/83/37/448337fd82e8c13de37548a9e7ca1261.jpg",
         "projectLink": "https://michaelkasingye.netlify.app/"      
