@@ -143,23 +143,22 @@ height: 15rem;
 .form_group{
   width: 100%;
   margin: 5px;
-
+  
 }
   textarea {
   height:100px;
-  width: 90%;
+  width: 75%;
   font-size: medium;
   border: none;
   border-bottom: 1px solid gray;
   /* background-color: #eeeeee; */
-
 }
 textarea:focus {
   outline-width:0 ;
 }
  input{
    height: 30px;
-width: 90%;
+width: 75%;
 font-size: medium;
     border: none;
     border-bottom: 1px solid gray;
