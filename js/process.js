@@ -31,7 +31,7 @@ function showProjects(data){
     const htmlString = data.map((project)=>{
         return `
         <article class="project-tile">
-        <a href="${project.projectLink}">
+        <a href="${project.projectLink}" target="_blank" rel="noopener noreferrer">
           <div class="project-tile-image">
             <img class="image" src="${project.image}" alt="landscape pic" />
           </div>
