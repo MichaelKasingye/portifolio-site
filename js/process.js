@@ -7,6 +7,12 @@ const data = [
         "image": "https://i.pinimg.com/originals/44/83/37/448337fd82e8c13de37548a9e7ca1261.jpg",
         "projectLink": "https://michaelkasingye.netlify.app/"      
     },
+  {
+        "typeOfProject":"Jumia Clone Mini",
+        "shortDescription":"Front-end Ecommerce web App",
+        "image": "https://i.pinimg.com/564x/dc/51/00/dc5100a29f67ce40f4972172e3a8c236.jpg",
+        "projectLink": "https://jumia-clone-4fdfe.web.app/"      
+    },
     {
         "typeOfProject":"Weather",
         "shortDescription":"Weather Forecast App Built in React",
