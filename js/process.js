@@ -18,6 +18,12 @@ const data = [
         "shortDescription":"Weather Forecast App (React JS)",
         "image": "https://i.pinimg.com/originals/41/25/00/412500dd8a3c60b3d754ac12c9242709.png",
         "projectLink": "https://weatherforcastapp.netlify.app/"      
+    },
+    {
+        "typeOfProject":"Banking",
+        "shortDescription":"Loan Repayment App (React-Redux JS)",
+        "image": "https://i.pinimg.com/originals/9c/d0/ff/9cd0ff6a77f0ae22de9272d498fe225c.jpg",
+        "projectLink": "https://loana.netlify.app/"      
     }
   
 ];
