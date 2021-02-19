@@ -15,7 +15,7 @@ const data = [
     },
     {
         "typeOfProject":"Weather",
-        "shortDescription":"Weather Forecast App (React JS)",
+        "shortDescription":"Weather Forecast App (React-Contex API JS)",
         "image": "https://i.pinimg.com/originals/41/25/00/412500dd8a3c60b3d754ac12c9242709.png",
         "projectLink": "https://weatherforcastapp.netlify.app/"      
     },
