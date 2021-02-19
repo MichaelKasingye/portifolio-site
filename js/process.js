@@ -23,9 +23,8 @@ const data = [
         "typeOfProject":"Banking",
         "shortDescription":"Loan Payment App (React-Redux JS)",
         "image": "https://i.pinimg.com/originals/9c/d0/ff/9cd0ff6a77f0ae22de9272d498fe225c.jpg",
-        "projectLink": "https://loana.netlify.app/
-"      
-    },
+        "projectLink": "https://loana.netlify.app/"
+    }
   
 ];
 
