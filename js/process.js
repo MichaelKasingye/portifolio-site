@@ -11,7 +11,7 @@ const data = [
         "typeOfProject":"E-commerce",
         "shortDescription":"Jumia Clone - Mini (React-Contex API JS)",
         "image": "https://i.pinimg.com/564x/dc/51/00/dc5100a29f67ce40f4972172e3a8c236.jpg",
-        "projectLink": "https://jumia-clone-4fdfe.web.app/"      
+        "projectLink": "https://jumia-clone-7426b.web.app"      
     },
     {
         "typeOfProject":"Weather",
