@@ -26,8 +26,8 @@ const data = [
         "projectLink": "https://loana.netlify.app/"      
     },
     {
-        "typeOfProject":"Online Coding",
-        "shortDescription":"Online Editor (React JS)",
+        "typeOfProject":"Web Site Development",
+        "shortDescription":"Online Web Editor (React JS)",
         "image": "https://i.pinimg.com/originals/dc/86/d3/dc86d33039eb687e6e58e9d996db2e48.png",
         "projectLink": "https://codeeditoronline.netlify.app/"      
     }
