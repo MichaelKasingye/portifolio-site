@@ -24,6 +24,12 @@ const data = [
         "shortDescription":"Loan Repayment App (React-Redux JS)",
         "image": "https://i.pinimg.com/originals/9c/d0/ff/9cd0ff6a77f0ae22de9272d498fe225c.jpg",
         "projectLink": "https://loana.netlify.app/"      
+    },
+    {
+        "typeOfProject":"Online Coding",
+        "shortDescription":"Online Editor (React JS)",
+        "image": "https://i.pinimg.com/originals/dc/86/d3/dc86d33039eb687e6e58e9d996db2e48.png",
+        "projectLink": "https://codeeditoronline.netlify.app/"      
     }
   
 ];
