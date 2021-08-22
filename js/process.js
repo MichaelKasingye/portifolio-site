@@ -20,11 +20,23 @@ const data = [
         "projectLink": "https://weatherforcastapp.netlify.app/"      
     },
     {
-        "typeOfProject":"Banking",
-        "shortDescription":"Loan Repayment App (React-Redux JS)",
-        "image": "https://i.pinimg.com/originals/9c/d0/ff/9cd0ff6a77f0ae22de9272d498fe225c.jpg",
-        "projectLink": "https://loana.netlify.app/"      
+        "typeOfProject":"Mini-shop",
+        "shortDescription":"Demo Mini-shop site (React-Next JS)",
+        "image": "https://i.pinimg.com/originals/7f/84/e6/7f84e6245c28a0e056b88c5c1b389cde.jpg",
+        "projectLink": "https://miniecommerce.netlify.app/"      
     },
+    {
+      "typeOfProject":"Restaurant",
+      "shortDescription":"Demo Restaurant site (React-Next JS) ",
+      "image": "https://i.pinimg.com/originals/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
+      "projectLink": "https://foodiiy.netlify.app/"      
+  },
+  {
+    "typeOfProject":"Banking",
+    "shortDescription":"Loan Repayment App (React-Redux JS)",
+    "image": "https://i.pinimg.com/originals/9c/d0/ff/9cd0ff6a77f0ae22de9272d498fe225c.jpg",
+    "projectLink": "https://loana.netlify.app/"      
+},
     {
         "typeOfProject":"Web Site Development",
         "shortDescription":"Online Web Editor (React JS)",
