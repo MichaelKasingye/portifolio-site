@@ -1,0 +1,23 @@
+.contacts{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;flex-wrap: wrap;
+  width: 100%;
+  border: 1px solid #DFDFDF;
+  border-radius: 10px;
+  height: 10rem;
+}
+.number{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+  /* width: 100%; */
+  /* border: 2px solid red; */
+}
+.contactDetail{
+color: gray;
+font-weight: bold;
+margin-left: 15px;
+
+}

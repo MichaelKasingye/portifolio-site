@@ -1,0 +1,33 @@
+.about{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* flex-direction: column; */
+  max-width: 100%;
+  /* border: 1px solid red; */
+  /* border-radius: 10px; */
+  /* height: 70vh; */
+}
+.img{
+  /* border: 1px solid red; */
+  /* object-fit: contain; */
+max-width: 100%;
+max-height: 20rem;
+margin: 10px;
+border-radius: 10px;
+}
+.content{
+  display: flex;
+  align-items: center;
+  margin-left:50px ;
+}
+.contentInfo{
+  /* border: 1px solid red; */
+
+  text-align: left;
+  max-width: 20rem;
+  color: #808080;
+  /* max-width: 100%; */
+
+}

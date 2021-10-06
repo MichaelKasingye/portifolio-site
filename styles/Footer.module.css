@@ -1,0 +1,16 @@
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;flex-wrap: wrap;
+  width: 100%;
+  background-color:#212529 ;
+  /* border: 1px solid #DFDFDF; */
+  /* border-radius: 10px; */
+  color: #F4B312;
+  height: 10rem;
+}
+.footerDetails{
+  /* border: 1px solid #DFDFDF; */
+max-width: 100%;
+max-height: 100%;
+}

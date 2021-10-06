@@ -1,0 +1,37 @@
+.orange{
+  color: #F39C12;
+}
+.vgrey{
+  color: #8F8F90;
+}
+.modalBtn{
+  background-color: #BB2D3B;
+  color: #fff;
+  font-weight: bold;
+}
+.doneButton{
+  font-weight: bold;
+  background: #fff;
+  color: #8F8F90;
+
+}
+.allDoneButton{
+  font-weight: bold;
+  background: #fff;
+  color: #8F8F90;
+
+}
+.modalContact{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.modalContactSpan{
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 12rem;
+  margin: 5px;
+}
