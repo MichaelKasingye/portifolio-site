@@ -1,9 +1,9 @@
 import React from "react";
-import cards from "../styles/Cards.module.css";
+import cards from "../styles/AboutCards.module.css";
 import Image from "next/image";
 
 import Link from "next/link";
-import Modal from "../components/Modal";
+import Modal from "./Modal";
 
 function Cards({ title, desc, img, path }) {
   return (

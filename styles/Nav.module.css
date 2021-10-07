@@ -19,12 +19,13 @@
 .icon{
   font-size: 30px;
   /* color: #f39c12;  */
-  color: white; 
+  color: #ffa007; 
+  font-weight: 700;
 
   /* background-color: red; */
 }
 .list{
-  color: white; 
+  color: #ffa007ef; 
 
 }
 .title,

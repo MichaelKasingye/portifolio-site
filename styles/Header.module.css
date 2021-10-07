@@ -48,11 +48,11 @@ color: #b33939;
         width: 80%;
       }
       50% {
-        border-bottom: 2px solid #8395a7;
+        border-bottom: 2px solid #ffa007ef;
         width: 90%;
       }
       75% {
-        border-bottom: 2px solid #10ac84;
+        border-bottom: 2px solid #b33939;
         width: 80%;
       }
       100% {
@@ -71,13 +71,7 @@ color: #b33939;
 
       }
     }
-    /* @media  (max-width: 450px) {
-      .typewriter {
-        font-size: 40px;
-
-      }
-    } */
-    @media  (max-width: 453px) {
+     @media  (max-width: 453px) {
       .name h1{
         /* border: 2px solid red; */
           font-size: 40px;

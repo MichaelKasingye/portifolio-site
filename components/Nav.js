@@ -36,19 +36,20 @@ function Navi() {
             <NavLink href="/#products" > <span className={navStyles.list}>Projects</span> </NavLink>
           </NavItem>
           <NavItem>
-            <NavLink href="/about" className="text-white"><span className={navStyles.list}>About me</span> </NavLink>
+            <NavLink href="/#about" className="text-white"><span className={navStyles.list}>About me</span> </NavLink>
+          </NavItem>
+          
+          <NavItem>
+            <NavLink href="/#aboutMe" className="text-white"><span className={navStyles.list}>More of me</span> </NavLink>
           </NavItem>
           <NavItem>
-            <NavLink href="/about"className="text-white"><span className={navStyles.list}>certificates</span> </NavLink>
+            <NavLink href="/#contact"className="text-white"><span className={navStyles.list}>Contact</span> </NavLink>
           </NavItem>
           <NavItem>
-            <NavLink href="/about"className="text-white"><span className={navStyles.list}>Resume</span> </NavLink>
+            <NavLink href="https://drive.google.com/drive/folders/1jPUA3rteZ1FD6_gUF1TpJmSU8qyiUZ6r" target="_blank" rel="noopener noreferrer" className="text-white"><span className={navStyles.list}>certificates</span> </NavLink>
           </NavItem>
           <NavItem>
-            <NavLink href="/about"className="text-white"><span className={navStyles.list}>More of me</span> </NavLink>
-          </NavItem>
-          <NavItem>
-            <NavLink href="/about"className="text-white"><span className={navStyles.list}>Contact</span> </NavLink>
+            <NavLink href="https://drive.google.com/file/d/18jt5lv_GNfFr_oBAGb_5kC42KmRYkAEn/view?usp=sharing"  target="_blank" rel="noopener noreferrer" className="text-white"><span className={navStyles.list}>Resume</span> </NavLink>
           </NavItem>
         </Nav>
       </Collapse>
