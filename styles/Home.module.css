@@ -6,6 +6,21 @@
   justify-content: center;
   align-items: center;
 }
+.cardsBody{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 70vh;
+  width: 100%;
+
+}
+.cardsBody button{
+  /* border: 3px solid red; */
+  margin-top: 60px;
+ 
+}
+
 .cardsHome{
   /* border: 3px solid red; */
   max-width: 100%;
@@ -13,6 +28,16 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+}
+.about{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 25px;
+  width: 80%;
+  min-height: 40vh;
+  padding-bottom: 10px;
 }
 .contacts{
   display: flex;

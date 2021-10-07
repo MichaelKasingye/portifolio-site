@@ -1,11 +1,11 @@
 .cards{
-  width: 100%;
+  max-width: 100%;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
 }
 .introCards{
-  height: 300px;
+  max-height: 300px;
 
   width: 18rem;
   /* background: #212529; */
@@ -38,9 +38,9 @@
 .orange{
   color: #db8a07;
 }
-.vgrey{
+/* .vgrey{
   color: #535353;
-}
+} */
 .cardButton{
 margin-bottom: 10px;
 margin-left: 5px;

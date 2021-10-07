@@ -3,30 +3,72 @@ import Header from "../components/Header";
 import Title from "../components/Title";
 import Cards from "../components/Cards";
 import Contact from "../components/Contact";
-import { introCards } from "../library/introCards";
+import AboutCards from "../components/AboutCards";
+
+import { itemData } from "../library/data";
+import { about, moreMe } from "../library/careerData";
+
 import home from "../styles/Home.module.css";
+import Button from "../components/Button";
+import Paragraph from "../components/Paragraph";
 
 export default function Home() {
   return (
     <div className={home.container} id="home">
       <Meta title="Home" />
       <Header />
-      <Title title="Foodiiy" />
+
+      <div className={home.cardsBody} id="products">
+      <Title title="Projects"/>
       <div className={home.cardsHome} id="products">
-        {introCards.map((info) => (
+        {itemData.map((info) => (
           <Cards
-            img={info.image}
+          key={Math.random()}
+            img={info.img}
             title={info.title}
             desc={info.description}
-            path={info.path}
+            path={info.link}
           />
         ))}
       </div>
-
-      <Title title="Order" />
-      <div className={home.contacts} id="contact">
-        <Contact />
+            <Button text="View More"/>
       </div>
+
+      <div className={home.cardsBody} id="about">
+      <Title title="About me" />
+      <div className={home.about} id="about">
+        <Paragraph text={about}/>
+
+        <Button text="View More"/>
+      </div>
+      </div>
+
+      <div className={home.cardsBody} id="aboutMe">
+      <Title title="More of me" />
+      <div className={home.cardsHome} id="aboutMe">
+        {moreMe.map((info) => (
+          <AboutCards
+          key={Math.random()}
+            img={info.img}
+            title={info.title}
+            desc={info.description}
+            path={info.link}
+          />
+        ))}
+      </div>
+            {/* <Button text="View More"/> */}
+      </div>
+
+
+      <div className={home.cardsBody} id="contact">
+      <Title title="Reach me" />
+      {/* <div className={home.cardsHome} id="products"> */}
+          <Contact/>
+       
+      {/* </div> */}
+            {/* <Button text="View More"/> */}
+      </div>
+
     </div>
   );
 }
