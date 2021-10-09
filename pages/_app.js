@@ -1,4 +1,6 @@
 import Layout from "../components/Layout";
+
+import '../styles/globals.css'
 import "bootstrap/dist/css/bootstrap.css";
 // import 'bootstrap/dist/js/bootstrap.bundle'
 import "../styles/globals.css";
@@ -11,4 +13,4 @@ function MyApp({ Component, pageProps }) {
   );
 }
 
-export default MyApp;
+export default MyApp
