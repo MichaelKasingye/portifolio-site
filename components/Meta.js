@@ -50,10 +50,10 @@ const Meta = ({ title, keywords, description, siteLink, image }) => {
 };
 
 Meta.defaultProps = {
-  title: "foodiiy",
-  keywords: "e-commerce",
-  description: "Mini food e-shop that displays food stock to order",
-  image:"https://i.pinimg.com/564x/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
+  title: "Michael Kasingye",
+  keywords: "Web developer, developer,Software developer, software engineer, HTML, CSS, JavaScript, React, Node Express Javascript",
+  description: "Software developer ",
+  image:"https://i.pinimg.com/originals/44/83/37/448337fd82e8c13de37548a9e7ca1261.jpg",
   siteLink:"https://foodiiy.netlify.app/"
 };
 

@@ -1,7 +1,4 @@
 import React from "react";
-import { ImMail3 } from "react-icons/im";
-import { AiTwotonePhone } from "react-icons/ai";
-import { contacts } from "../library/contact";
 import contact from "../styles/Contact.module.css";
 
 function Contact() {

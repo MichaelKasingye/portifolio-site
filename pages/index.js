@@ -21,7 +21,7 @@ export default function Home() {
       <div className={home.cardsBody} id="products">
       <Title title="Projects"/>
       <div className={home.cardsHome} id="products">
-        {itemData.map((info) => (
+        {itemData.slice(0,3).map((info) => (
           <Cards
           key={Math.random()}
             img={info.img}
@@ -31,7 +31,7 @@ export default function Home() {
           />
         ))}
       </div>
-            <Button text="View More"/>
+            <Button text="View More" link="/projects"/>
       </div>
 
       <div className={home.cardsBody} id="about">
@@ -39,7 +39,7 @@ export default function Home() {
       <div className={home.about} id="about">
         <Paragraph text={about}/>
 
-        <Button text="View More"/>
+        <Button text="View More" link="/about"/>
       </div>
       </div>
 

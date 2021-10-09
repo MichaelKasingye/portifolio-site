@@ -5,7 +5,7 @@ import paragraph from "../styles/Paragraph.module.css";
 function Paragraph({text}) {
     return (
         <div className={paragraph.paragraph}>
-            <p class="text-secondary">{text}</p>
+            <p className={paragraph.text}>{text}</p>
         </div>
     )
 }

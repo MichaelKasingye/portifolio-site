@@ -1,6 +1,5 @@
 import React from 'react'
 import Typewriter from 'typewriter-effect';
-// import './hero.css'
 import headerStyles from "../styles/Header.module.css";
 
 const Header = () => {
