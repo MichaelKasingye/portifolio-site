@@ -16,7 +16,7 @@ function About() {
           <span className={about.name}>{intro.name}</span>
           <div className={about.profiletitle}>{intro.title.map(title=>(<span  key={Math.random()}>{title}</span>))}</div>
         </div>
-      
+      {/* x */}
          <Image
       loader={({ src, width, quality }) => {
         return `${src}`}}
