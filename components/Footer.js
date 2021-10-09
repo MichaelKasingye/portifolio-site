@@ -2,26 +2,13 @@ import React from "react";
 import { AiFillLinkedin, AiFillGithub, AiFillMediumCircle, AiFillYoutube } from "react-icons/ai";
 import Link from "next/link";
 
-import { contacts } from "../library/contact";
 // import { externalLinks } from "../library/icons";
 
 import footer from "../styles/Footer.module.css";
 function Footer() {
   return (
     <div className={footer.footer}>
-      {/* <div className={footer.footerDetails}>
-        <span>
-          Haruna towers Ntinda, ground floor <br />
-          P.O Box 23484 <br />
-          Kampala Uganda <br />
-        </span>
-      </div> */}
-      {/* <div className={footer.footerDetails}>
-        <span>
-          <span>{contacts.tel}</span> <br />
-          <span>{contacts.email}</span>
-        </span>
-      </div> */}
+   
       <div className={footer.footerDetails}>
       <Link href="https://www.linkedin.com/in/michaelkasingye/">
       <a target="_blank" rel="noopener noreferrer"> 
@@ -44,6 +31,7 @@ function Footer() {
         </a></Link>
 
       </div>
+      <p>techymichael@gmail.com</p>
     </div>
   );
 }

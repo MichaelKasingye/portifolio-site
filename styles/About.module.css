@@ -4,10 +4,48 @@
   justify-content: center;
   flex-wrap: wrap;
   /* flex-direction: column; */
-  max-width: 100%;
-  /* border: 1px solid red; */
+  width: 100%;
+  /* border: 1px solid green; */
   /* border-radius: 10px; */
   /* height: 70vh; */
+}
+.contentWrapper{
+  width: 80%;
+  margin: 50px 10px 0 10px;
+  /* border: 1px solid green; */
+height: 100%;
+  /* display: flex; */
+  /* align-items: center;
+  justify-content: center; */
+  /* flex-wrap: wrap; */
+  
+}
+.contentInfo{
+  margin-right: 10px;
+
+}
+.name{
+font-size: 30px;
+font-weight: 700;
+color: #b33939;
+
+}
+.profiletitle{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: #3F51B5;
+font-weight: 500;
+font-size: 24px;
+
+
+}
+.content{
+  /* border: 1px solid green; */
+display: flex;
+align-items: center;
+justify-content: end;
+/* flex-wrap: wrap; */
 }
 .img{
   /* border: 1px solid red; */
@@ -15,19 +53,153 @@
 max-width: 100%;
 max-height: 20rem;
 margin: 10px;
-border-radius: 10px;
+border-radius: 70px;
 }
-.content{
+.aboutMeContainer{
+  min-height: 50vh;
   display: flex;
-  align-items: center;
-  margin-left:50px ;
+  flex-direction: column;
+align-items: center;
+justify-content: center;
+width: 80%;
+
 }
-.contentInfo{
+.aboutMe{
+  /* border: 1px solid black; */
+
+  display: flex;
+  flex-direction: column;
+align-items: center;
+justify-content: center;
+  /* width: 60%; */
+  padding: 10px;
+  /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+  font-size: 20px;
+
+}
+
+.rolesContainer{
+  /* border: 1px solid black; */
+
+  display: flex;
+  flex-direction: column;
+  /* flex-direction: column;
+  align-items: center;
+  justify-content: center; */
+  width: 80%;
+  
+}
+.rolesCard{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: 10px;
   /* border: 1px solid red; */
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 
-  text-align: left;
-  max-width: 20rem;
-  color: #808080;
-  /* max-width: 100%; */
+}
+.roles{
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: column;
+/* align-items: center;
+justify-content: center; */
+padding: 10px;
+margin: 10px;
+}
+.rolesDetails{
+  display: flex;
+  flex-direction: column;
 
+}
+.rolestitle{
+  color: #3F51B5;
+  font-weight: 700;
+}
+.rolesHeading{
+  font-weight: 500;
+color: #b33939;
+margin: 10px 0;
+}
+.rolesDescriptionTags{
+  /* background-color: #ffa0074f; */
+  background-color: #ffa0074f;
+
+  margin: 5px;
+  padding: 3px 5px;
+  border-radius: 5px;
+}
+.rolesTagsContainer{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.CareerSection{
+  /* border: 1px solid red; */
+}
+.Career{
+  /* border: 1px solid green; */
+  display: flex;
+  flex-direction: column;
+align-items: center;
+justify-content: center;
+  width: 80%;
+  padding: 10px;
+}
+/* .Career span:nth-of-type(1){
+  border: 1px solid green;
+} */
+.CareerDetails {
+  /* border: 3px solid yellowgreen; */
+margin: 10px;
+display: flex;
+
+  flex-direction: column;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 20px;
+  margin: 10px;
+  width: 100%;
+}
+.jobtitle{
+  /* border: 1px solid green; */
+  color: #3F51B5;
+  font-weight: 700;
+}
+.years{
+  /* border: 1px solid blue; */
+  font-weight: 500;
+
+}
+.tags{
+  /* border: 1px solid black; */
+  display: flex;
+  flex-wrap: wrap;
+  /* flex-direction: row; */
+}
+.tags span{
+  /* border: 1px solid black; */
+  background-color: #ffa0074f;
+  margin: 5px;
+  padding: 3px 5px;
+  border-radius: 5px;
+}
+.heading{
+  /* color: #b33939; */
+  font-weight: 500;
+
+}
+.description{
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: column;
+  /* font-size: 16px; */
+}
+
+@media  (max-width: 396px) {
+  .content{
+    /* border: 2px solid red; */
+      font-size: 12px;
+  }
+ 
 }

@@ -15,17 +15,27 @@ font-weight: 600;
 font-size: 20px;
 height: 40px;
 }
+.button a{
+  /* border: 3px solid red; */
+  text-decoration: none;
+  /* color: #fff; */
+
+}
 .button:hover {
   background-color: #fff;
   color: #b33939;
   border:1px solid #b33939;
 }
+.button a:hover{
+  color: #b33939;
+}
  .button:active {
   background-color: #db8a07;
   color: #fff;
   border:1px solid #db8a07;
-
-
+}
+.button a:active{
+  color: #fff;
 }
 @media  (max-width: 960px) {
   .button{

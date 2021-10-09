@@ -6,6 +6,12 @@ export const itemData = [
      link:"https://jumia-clone-7426b.web.app",
    },
    {
+    img: "https://i.pinimg.com/originals/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
+    title: 'Restaurant',
+   description: 'Demo Restaurant site (React-Next JS)',
+   link:"https://foodiiy.netlify.app/",
+ },
+   {
     img: "https://i.pinimg.com/originals/41/25/00/412500dd8a3c60b3d754ac12c9242709.png",
     title: 'Weather',
    description: 'Weather Forecast App (React JS)',
@@ -17,12 +23,7 @@ export const itemData = [
    description: 'Loan Repayment App (React-Redux JS)',
    link:"https://loana.netlify.app/",
  },
- {
-    img: "https://i.pinimg.com/originals/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
-    title: 'Restaurant',
-   description: 'Demo Restaurant site (React-Next JS)',
-   link:"https://foodiiy.netlify.app/",
- },
+
  {
     img: "https://i.pinimg.com/originals/7f/84/e6/7f84e6245c28a0e056b88c5c1b389cde.jpg",
     title: 'Mini-shop',
@@ -31,11 +32,6 @@ export const itemData = [
  },
 ];
 
-export const docs = {
-  certificates: "https://drive.google.com/drive/folders/1jPUA3rteZ1FD6_gUF1TpJmSU8qyiUZ6r",
-  youTube : "https://www.youtube.com/channel/UCMsbWRujsYQAremu5Zdu-BA",
-  Blogs: "https://michaelkasingye.medium.com/",
-  Resume : "https://drive.google.com/file/d/18jt5lv_GNfFr_oBAGb_5kC42KmRYkAEn/view?usp=sharing",
-}
+
 
 
