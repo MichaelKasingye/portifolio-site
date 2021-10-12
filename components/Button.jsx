@@ -4,16 +4,17 @@ import Link from "next/link";
 
 function Button({text, link}) {
     return (
+      <Link href={link}>
         <button
               type="button"
             //   className="btn  btn-outline-primary"
               className={button.button}
             >
-              <Link href={link}>
               <a > 
               {text}
-              </a></Link>
+              </a>
             </button>
+            </Link>
     )
 }
 
