@@ -1,5 +1,5 @@
 import React from 'react'
-import Typewriter from 'typewriter-effect';
+// import Typewriter from 'typewriter-effect';
 import headerStyles from "../styles/Header.module.css";
 
 const Header = () => {
@@ -12,13 +12,13 @@ const Header = () => {
 MIchael Kasingye</h1>
 </div>
 <div className={headerStyles.typewriter}>
-<Typewriter
+{/* <Typewriter
 options={{
 strings: ['Software Developer', 'Team Leader', 'Mentor'],
 autoStart: true,
 loop: true,
 }}
-/>   
+/>    */}
 
 </div>
     </div>
