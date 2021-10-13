@@ -11,6 +11,12 @@ export const itemData = [
    description: 'Demo Restaurant site (React-Next JS)',
    link:"https://foodiiy.netlify.app/",
  },
+ {
+  img: "https://i.pinimg.com/originals/7f/84/e6/7f84e6245c28a0e056b88c5c1b389cde.jpg",
+  title: 'Mini-shop',
+ description: 'Demo Mini-shop site (React-Next JS)',
+ link:"https://miniecommerce.netlify.app/",
+},
    {
     img: "https://i.pinimg.com/originals/41/25/00/412500dd8a3c60b3d754ac12c9242709.png",
     title: 'Weather',
@@ -24,12 +30,6 @@ export const itemData = [
    link:"https://loana.netlify.app/",
  },
 
- {
-    img: "https://i.pinimg.com/originals/7f/84/e6/7f84e6245c28a0e056b88c5c1b389cde.jpg",
-    title: 'Mini-shop',
-   description: 'Demo Mini-shop site (React-Next JS)',
-   link:"https://miniecommerce.netlify.app/",
- },
 ];
 
 

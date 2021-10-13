@@ -1,0 +1,74 @@
+.cards{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .cardsHome a{
+    color: black;
+  }
+  .introCards{
+    height: 300px;
+  
+    width: 18rem;
+    /* background: #212529; */
+    box-shadow: rgba(201, 201, 201, 0.137) 0px 3px 8px;
+  overflow: hidden;
+  }
+  .projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .heightAdjust{
+    height: 20rem;
+    margin: 9px;
+    /* box-shadow: rgba(201, 201, 201, 0.137) 0px 3px 8px; */
+  }
+  .productCard{
+    width: 18rem;
+    /* background: #21252900; */
+    /* border: 1px solid #95afc0; */
+   
+  }
+  .height{
+    /* height: 24rem; */
+    /* margin: 12px; */
+    border: 1px solid #95afc0;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+  .introCards:hover{
+    transform: scale(1.1);
+  }
+  .introCards:active{
+    transform: scale(0.9);
+  }
+  .orange{
+    color: #db8a07;
+  }
+  .vgrey{
+    color: #535353;
+  }
+  .cardButton{
+  margin-bottom: 10px;
+  margin-left: 5px;
+  /* border: 3px solid red; */
+  max-height: 100%;
+  }
+  .image{
+    /* object-fit: cover; */
+  /* border: 3px solid red; */
+ 
+  overflow: hidden;
+    /* height: 20rem; */
+    /* padding: 3px; */
+    
+  }
+  .image img{
+    width: 100%;
+    
+  }
+  .textParagraph{
+    font-size: 12px;
+  }
