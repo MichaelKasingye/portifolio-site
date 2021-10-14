@@ -20,6 +20,14 @@
     /* box-shadow: rgba(201, 201, 201, 0.137) 0px 3px 8px; */
   
   }
+  .introCardsMoreAbout:hover{
+    transform: scale(1.1);
+    /* border: 1px solid green; */
+
+  }
+  .introCardsMoreAbout:active{
+    transform: scale(0.9);
+  }
   .heightAdjust{
     height: 20rem;
     margin: 9px;
