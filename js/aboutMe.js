@@ -2,7 +2,7 @@ const projectGroup = document.querySelector('.aboutparagraph');
 const Career = document.querySelector('.Career');
 
 
-export const about = "I am a Ugandan Front-end web application's developer. I can use  React and can adapt to JavaScript frameworks and libraries. Am also familiar with some back-end development like, building in MVC using Node Express JavaScript and Mongoose as the dataBase. On the other hand, I am a coding instructor, mentor and team leader.";
+export const about = "I am a  Ugandan Front-end software developer. I love to build and work with teams to establish virtual platforms and systems that provide user satisfaction.";
 
 export const intro ={
     image:"https://avatars.githubusercontent.com/u/42036497?v=4",
