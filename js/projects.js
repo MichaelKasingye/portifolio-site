@@ -25,6 +25,12 @@ const data = [
  description: 'A demo dashboard platform that displays ecommerce site activity and settings.',
  link:"https://olugi-dashboard.netlify.app/#/",
 },
+  {
+  img: "https://i.pinimg.com/originals/9c/d0/ff/9cd0ff6a77f0ae22de9272d498fe225c.jpg",
+  title: 'Banking',
+ description: 'Loan Repayment App that calculates the loan amount you qualify for.',
+ link:"https://loana.netlify.app/",
+},
    {
   img: "https://i.pinimg.com/564x/a4/0f/9f/a40f9f4fd9437858ed989f12b0528c90.jpg",
   title: 'Wedding Site',
@@ -49,12 +55,7 @@ const data = [
  description: 'Weather Forecast App that displays weather for the day on request',
  link:"https://weatherforcastapp.netlify.app/",
 },
-{
-  img: "https://i.pinimg.com/originals/9c/d0/ff/9cd0ff6a77f0ae22de9272d498fe225c.jpg",
-  title: 'Banking',
- description: 'Loan Repayment App that calculates the loan amount you qualify for.',
- link:"https://loana.netlify.app/",
-},
+
 
 
 ];
