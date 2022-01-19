@@ -33,7 +33,7 @@ const data = [
 },
    {
   img: "https://i.pinimg.com/originals/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
-  title: 'Restaurant',
+  title: 'Restaurant-2',
  description: 'A demo Restaurant site that displays food.',
  link:"https://foodiiy.netlify.app/",
 },
