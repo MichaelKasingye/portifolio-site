@@ -7,7 +7,31 @@ const data = [
    description: 'Jumia Clone - a clone from the main Jumia e-commerce store',
    link:"https://jumia-clone-7426b.web.app",
  },
+   {
+  img: "https://i.pinimg.com/originals/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
+  title: '1Restaurant',
+ description: 'A demo Restaurant site that displays food.',
+ link:"https://foodiiy.netlify.app/",
+},
+   {
+  img: "https://i.pinimg.com/564x/7b/ee/bd/7beebdfeddc216a9eda45f021113f609.jpg",
+  title: 'NGO site',
+ description: 'A demo NGO site that focuses on child support.',
+ link:"https://stellacenter.vercel.app/",
+},
  {
+  img: "https://i.pinimg.com/originals/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
+  title: '4Restaurant',
+ description: 'A demo Restaurant site that displays food.',
+ link:"https://foodiiy.netlify.app/",
+},
+   {
+  img: "https://i.pinimg.com/originals/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
+  title: '3Restaurant',
+ description: 'A demo Restaurant site that displays food.',
+ link:"https://foodiiy.netlify.app/",
+},
+   {
   img: "https://i.pinimg.com/originals/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
   title: 'Restaurant',
  description: 'A demo Restaurant site that displays food.',
