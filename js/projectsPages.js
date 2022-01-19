@@ -21,7 +21,7 @@ const data = [
 },
  {
   img: "https://i.pinimg.com/564x/b5/48/4a/b5484a93c5a1d3aafbe85aece40567c7.jpg",
-  title: 'Operational Dashboard',
+  title: 'Dashboard',
  description: 'A Dashboard that displays ecommerce site activity and settings.',
  link:"https://olugi-dashboard.netlify.app/#/",
 },
