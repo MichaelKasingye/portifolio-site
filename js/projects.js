@@ -8,10 +8,10 @@ const data = [
    link:"https://jumia-clone-7426b.web.app",
  },
    {
-  img: "https://i.pinimg.com/originals/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
-  title: '1Restaurant',
+  img: "https://i.pinimg.com/564x/f3/a7/2b/f3a72b6742bf57955455d8e0e570197e.jpg",
+  title: 'Restaurant',
  description: 'A demo Restaurant site that displays food.',
- link:"https://foodiiy.netlify.app/",
+ link:"https://food-seller-resturant.vercel.app/",
 },
    {
   img: "https://i.pinimg.com/564x/7b/ee/bd/7beebdfeddc216a9eda45f021113f609.jpg",
