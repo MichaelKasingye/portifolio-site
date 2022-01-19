@@ -1,13 +1,37 @@
 const projectGroup = document.querySelector('.projects');
 
 const data = [
-  {
+ {
     img: "https://i.pinimg.com/564x/dc/51/00/dc5100a29f67ce40f4972172e3a8c236.jpg",
     title: 'E-commerce',
    description: 'Jumia Clone - a clone from the main Jumia e-commerce store',
    link:"https://jumia-clone-7426b.web.app",
  },
+   {
+  img: "https://i.pinimg.com/564x/f3/a7/2b/f3a72b6742bf57955455d8e0e570197e.jpg",
+  title: 'Restaurant',
+ description: 'A demo Restaurant site that displays food.',
+ link:"https://food-seller-resturant.vercel.app/",
+},
+   {
+  img: "https://i.pinimg.com/564x/7b/ee/bd/7beebdfeddc216a9eda45f021113f609.jpg",
+  title: 'NGO site',
+ description: 'A demo NGO site that focuses on child support.',
+ link:"https://stellacenter.vercel.app/",
+},
  {
+  img: "https://i.pinimg.com/564x/b5/48/4a/b5484a93c5a1d3aafbe85aece40567c7.jpg",
+  title: 'Operational Dashboard',
+ description: 'A demo dashboard platform that displays ecommerce site activity and settings.',
+ link:"https://olugi-dashboard.netlify.app/#/",
+},
+   {
+  img: "https://i.pinimg.com/564x/a4/0f/9f/a40f9f4fd9437858ed989f12b0528c90.jpg",
+  title: 'Wedding Site',
+ description: 'A demo Weddidng site displays that wedding schedules of a couple.',
+ link:"https://katos-wedding.netlify.app/",
+},
+   {
   img: "https://i.pinimg.com/originals/53/13/34/531334345574129dcc9e53d39d3ce0fc.jpg",
   title: 'Restaurant',
  description: 'A demo Restaurant site that displays food.',
